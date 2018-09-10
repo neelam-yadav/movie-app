@@ -1,0 +1,10 @@
+Django==1.11.5
+django-search-views==0.3.7
+django-widget-tweaks==1.4.1
+djangorestframework==3.6.4
+Jinja2==2.10
+MarkupSafe==1.0
+olefile==0.44
+Pillow==4.2.1
+psycopg2==2.7.5
+pytz==2017.2
